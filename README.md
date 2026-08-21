@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/images/banner.png" alt="Opencode Local Memory banner" />
+  <img src="./resources/images/banner.jpg" alt="Opencode Local Memory banner" />
 </p>
 
 ---
@@ -21,6 +21,12 @@ If you want to make it to where opencode doesn't ask you for permission every
 single time it commits something to memory, then make sure to add
 `"~/.agents/memory/**": "allow"` to your `opencode.json` config under the
 permission section.
+
+## Example
+
+<p align="center">
+  <img src="./resources/images/example.png" alt="Opencode Local Memory example" />
+</p>
 
 ## DISCLAIMERS
 
