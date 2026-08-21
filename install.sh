@@ -36,4 +36,4 @@ cp "$SRC_AGENT_FILE" "$OPENCODE_DIR"
 echo -e "[+] - AGENTS.md file wrote to $OPENCODE_DIR"
 
 echo -e "\n[+++] - Done! Run a new opencode instance to start!"
-echo -e "Be sure to add the following to\n$OPENCODE_DIR/opencode.json under\nthe "permission" section:\n\n\"edit\": {\n  \"~/.agents/memory/**:\" \"allow\"\n}"
+echo -e "Be sure to add the following to\n$OPENCODE_DIR/opencode.json under\nthe "permission" section:\n\n\"edit\": {\n  \"~/.agents/memory/**\": \"allow\"\n}"
